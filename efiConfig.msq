@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="">
-   <bibliography author="EFITune 2.25 p1" writeDate="2020-08-09T02:19:59-21:00" />
+   <bibliography author="EFITune 2.25 p1" writeDate="2020-08-09T02:50:12-21:00" />
    <versionInfo fileFormat="4.0" nPages="1" signature="MSII Rev 2.88000   " />
    <page number="0" size="1306">
       <constant name="AMCOption">&quot;Burn to ECU&quot;</constant>
@@ -346,8 +346,8 @@
          130.0
          160.0
       </constant>
-      <constant name="tpsMax" units="ADC">600</constant>
-      <constant name="tpsMin" units="ADC">103</constant>
+      <constant name="tpsMax" units="ADC">911</constant>
+      <constant name="tpsMin" units="ADC">101</constant>
       <constant name="tpsProportion" units="%">100</constant>
       <constant name="tpsThresh" units="%/s">60</constant>
       <constant name="triggerOffset" units="deg">35.00</constant>
